@@ -1,0 +1,206 @@
+﻿Ano;Safra;Fazenda;Talhao;Cultura;Variedade;Destinacao;Area Plantio (ha);Tipo Adubacao;Recomendacao (kg/ha);Data Inicio Plantio;Data Fim Plantio;Estado
+2024;2;Atena;Pivô 1;Feijão;TAA DAMA;Grão;125,33;Nenhum;0;10/05/2024;13/05/2024;MG
+2024;2;Atena;Pivô 7;Feijão;TAA DAMA;Grão;80,37;Nenhum;0;15/05/2024;20/05/2024;MG
+2024;2;Lagoa Bonita;Pivô 3;Milho;B2401 PWU;Grão;85,774;Nenhum;0;07/04/2024;16/04/2024;MG
+2024;2;Lagoa Bonita;Pivô 10;Milho;B2782 PWU;Grão;133,01;Nenhum;0;02/05/2024;08/05/2024;MG
+2024;2;Lagoa Bonita;Pivô 11;Milho;AS 1820;Grão;114,33;Nenhum;0;24/04/2024;01/05/2024;MG
+2024;2;Lagoa Bonita;Pivô 12;Milho;MG 593 PWU;Grão;114,33;Nenhum;0;17/04/2024;20/04/2024;MG
+2024;2;Austrália;Pirituba;Sorgo;K 200;Grão;30,49;Nenhum;0;09/03/2024;10/03/2024;MG
+2024;2;Austrália;Santa Rita I;Sorgo;K 200;Grão;5,12;Nenhum;0;05/03/2024;06/03/2024;MG
+2024;2;Austrália;São Caetano;Sorgo;K 200;Grão;17,61;Nenhum;0;09/03/2024;10/03/2024;MG
+2024;2;Austrália;Jaboticabal;Sorgo;K 200;Grão;18;Nenhum;0;09/03/2024;09/03/2024;MG
+2024;2;Austrália;Campinas;Sorgo;K 200;Grão;26,62;Nenhum;0;07/03/2024;07/03/2024;MG
+2024;2;Austrália;Bauru;Sorgo;K 200;Grão;54,87;Nenhum;0;08/03/2024;08/03/2024;MG
+2024;2;Austrália;Ubatuba;Sorgo;K 200;Grão;40,86;Nenhum;0;09/03/2024;09/03/2024;MG
+2024;2;Austrália;Marília;Sorgo;K 200;Grão;57,68;Nenhum;0;04/03/2024;05/03/2024;MG
+2024;2;Austrália;Santo André;Sorgo;K 200;Grão;7;Nenhum;0;04/03/2024;04/03/2024;MG
+2024;2;Austrália;Pivô 3;Milho;MG 593 PWU;Grão;45;Nenhum;0;01/03/2024;02/03/2024;MG
+2024;2;Austrália;Pivô 1;Milho;AG 8701 PRO4;Grão;67,56;Nenhum;0;04/03/2024;05/03/2024;MG
+2024;2;Boa Viagem;Pivô 2;Milho;MG 593 PWU;Grão;48,34;Nenhum;0;17/02/2024;19/02/2024;MG
+2024;2;Boa Viagem;Pivô 3;Milho;AG 8701 PRO4;Grão;33,16;Nenhum;0;14/02/2024;14/02/2024;MG
+2024;2;Boa Viagem;Pivô 5;Algodão;FM 906 GLT;Fibras;55,05;Nenhum;0;13/02/2024;15/02/2024;MG
+2024;2;Boa Viagem;Pivô 6;Milho;MG 593 PWU;Grão;36,3;Nenhum;0;23/02/2024;26/02/2024;MG
+2024;2;Boa Viagem;Pivô 7;Feijão;TAA DAMA;Grão;57,98;Nenhum;0;21/05/2024;28/05/2024;MG
+2024;2;Boa Viagem;Pivô 8;Feijão;TAA DAMA;Grão;81,11;Nenhum;0;10/05/2024;23/05/2024;MG
+2024;2;Boa Viagem;Pivô 9;Milho;MG 616 PWU;Grão;40,08;Nenhum;0;15/02/2024;17/02/2024;MG
+2024;2;Boa Viagem;Pivô 10;Milho;AG 8701 PRO4;Grão;67,39;Nenhum;0;04/02/2024;14/02/2024;MG
+2024;2;Boa Viagem;Pivô 11;Milho;DKB 360 PRO3;Grão;50,02;Nenhum;0;01/02/2024;02/02/2024;MG
+2024;2;Boa Viagem;Pivô 12;Milho;DKB 360 PRO3;Grão;28,09;Nenhum;0;31/01/2024;31/01/2024;MG
+2024;2;Atena;Bulgária;Sorgo;K 200;Grão;78,05;Nenhum;0;06/03/2024;07/03/2024;MG
+2024;2;Atena;Colombia;Mix Cobertura;RX 370;Outros;106,47;Nenhum;0;20/03/2024;22/03/2024;MG
+2024;2;Atena;Londres;Mix Cobertura;RX 350;Outros;90,6099;Nenhum;0;22/02/2024;23/02/2024;MG
+2024;2;Atena;Peru;Mix Cobertura;RX 370;Outros;7,6;Nenhum;0;20/03/2024;20/03/2024;MG
+2024;2;Atena;Rússia;Sorgo;K 200;Grão;11;Nenhum;0;08/03/2024;08/03/2024;MG
+2024;2;Atena;Portugal;Mix Cobertura;RX 350;Outros;100,4;Nenhum;0;22/02/2024;23/02/2024;MG
+2024;2;São Pedro;Bolívia;Mix Cobertura;RX 370;Outros;61,9787;Nenhum;0;13/03/2024;13/03/2024;MG
+2024;2;São Pedro;Gotejo;Mix Cobertura;RX 370;Outros;55,1;Nenhum;0;13/03/2024;13/03/2024;MG
+2024;2;São Pedro;Estados Unidos;Mix Cobertura;RX 350;Outros;29,1344;Nenhum;0;13/03/2024;13/03/2024;MG
+2024;2;São Pedro;Paraguay;Mix Cobertura;RX 350;Outros;140;Nenhum;0;06/03/2024;14/03/2024;MG
+2024;2;São Pedro;Perú;Mix Cobertura;RX 370;Outros;62,9286;Nenhum;0;20/03/2024;20/03/2024;MG
+2024;2;São Pedro;Pivô 2;Ervilha;Lapar 83;Outros;112,0126;Nenhum;0;22/05/2024;27/05/2024;MG
+2024;2;Lagoa Bonita;Astorga;Mix Cobertura;RX 250;Outros;26,49;Nenhum;0;02/04/2024;02/04/2024;MG
+2024;2;Lagoa Bonita;Cambé I;Mix Cobertura;RX 350;Outros;92,5439;Nenhum;0;22/02/2024;23/03/2024;MG
+2024;2;Lagoa Bonita;Campo Largo;Mix Cobertura;RX 250;Outros;13,67;Nenhum;0;02/04/2024;03/04/2024;MG
+2024;2;Lagoa Bonita;Guaratuba;Mix Cobertura;RX 350;Outros;35,64;Nenhum;0;22/02/2024;23/02/2024;MG
+2024;2;Austrália;Pivô 2;Capim;Tifton;Feno;73,9;Nenhum;0;24/04/2024;30/04/2024;MG
+2024;2;São Bernardo;Coromandel;Sorgo;1G233;Grão;63,78;Nenhum;0;04/03/2024;05/03/2024;MG
+2024;2;São Bernardo;Carneirinhos;Sorgo;1G233;Grão;52,26;Nenhum;0;02/03/2024;04/03/2024;MG
+2024;2;São Bernardo;Gurinhatã;Sorgo;1G233;Grão;59,11;Nenhum;0;07/03/2024;07/03/2024;MG
+2024;2;São Bernardo;Ouro Preto;Sorgo;1G233;Grão;36,73;Nenhum;0;07/03/2024;07/03/2024;MG
+2024;2;Boa Viagem;Amazonas;Mix Cobertura;RX 350;Grão;236,48;Nenhum;0;29/04/2024;30/04/2024;MG
+2024;2;Boa Viagem;Bahia;Mix Cobertura;RX 350;Grão;150,49;Nenhum;0;29/04/2024;30/04/2024;MG
+2024;2;Atena;Alemanha;Mix Cobertura;RX 250;Outros;89,25;Nenhum;0;17/04/2024;25/04/2024;MG
+2024;2;Austrália;Pivô 5;Milho;B2801 PWU;Grão;46;Nenhum;0;14/04/2024;14/04/2024;MG
+2024;1;Pedra do Cerrado;Pivô 6;Soja;GH 2376/2478/2282 IPRO;Grão;140;MAP;120;08/12/2023;09/12/2023;MS
+2024;1;Pedra do Cerrado;Pivô 5;Milho;NK 555 VIP3;Snaplage;90;MAP;100;13/02/2024;14/02/2024;MS
+2024;1;Pedra do Cerrado;Pivô 9;Milho;KWS 9606 VIP 3;Snaplage;195;MAP;100;15/02/2024;17/02/2024;MS
+2024;1;Pedra do Cerrado;RT-1_G1;Sorgo;Volumax;Silagem;200;Bioativo Composto Rocha Fosfática Apatitica;5000;22/12/2023;31/12/2023;MS
+2024;1;Pedra do Cerrado;RT-1_G2;Capim;Mombaça;Feno;165;Bioativo Composto Rocha Fosfática Apatitica;5000;01/10/2023;10/10/2023;MS
+2024;1;Pedra do Cerrado;RT-1_G3;Capim;Mombaça;Silagem;35;Bioativo Composto Rocha Fosfática Apatitica;5000;01/10/2023;10/10/2023;MS
+2024;1;Pedra do Cerrado;RT-2_G2;Sorgo;BOLIVIANO;Silagem;472;MAP;120;25/10/2023;31/10/2023;MS
+2024;1;Pedra do Cerrado;RT-2_G3;Soja;M-SOY 8349 IPRO;Grão;28;MAP;120;30/11/2023;30/11/2023;MS
+2024;1;Pedra do Cerrado;RT-4;Capim;Mombaça;Silagem;25;Bioativo Composto Rocha Fosfática Apatitica;5000;06/01/2024;06/01/2024;MS
+2024;2;São Pedro;Pivô 4;Algodão;FM 906 GLT;Fibras;148,6656;10-46-00 + 9S;120;12/02/2024;15/02/2024;MG
+2024;2;Pedra do Cerrado;Pivô 6;Feijão;TAA DAMA;Grão;140;MAP;120;27/05/2024;28/05/2024;MS
+2024;2;Pedra do Cerrado;Pivô 12;Feijão;TAA DAMA;Grão;177;MAP;100;18/07/2024;24/07/2024;MS
+2024;2;Pedra do Cerrado;Pivô 14;Feijão;TAA DAMA;Grão;92;MAP;100;12/07/2024;18/07/2024;MS
+2024;2;Pedra do Cerrado;Pivô 5;Mix Cobertura;RX 370;Outros;90;Bioativo Composto Rocha Fosfática Apatitica;5500;15/07/2024;25/07/2024;MS
+2024;2;Pedra do Cerrado;Pivô 8;Sorgo;BOLIVIANO;Silagem;155;MAP+M;100;24/07/2024;27/07/2024;MS
+2024;2;Pedra do Cerrado;Pivô 11;Sorgo;BOLIVIANO;Silagem;162;Bioativo Composto Rocha Fosfática Apatitica;5500;07/08/2024;09/08/2024;MS
+2024;2;Pedra do Cerrado;Pivô 10;Sorgo;BOLIVIANO;Silagem;196;Bioativo Composto Rocha Fosfática Apatitica;5500;12/08/2024;14/08/2024;MS
+2024;2;Lagoa Bonita;Pivô 9;Algodão;FM 906 GLT;Fibras;64,73;MAP;200;08/01/2024;15/01/2024;MG
+2024;2;Pedra do Cerrado;Pivô 7;Capim;Mombaça;Silagem;86;Bioativo Composto Bayovar;5500;14/05/2024;15/05/2024;MS
+2024;2;Pedra do Cerrado;Pivô 9;Mix Cobertura;RX 370;Outros;195;Bioativo Composto Rocha Fosfática Apatitica;5500;01/08/2024;08/08/2024;MS
+2024;2;Pedra do Cerrado;Pivô 15;Mix Cobertura;RX 370;Outros;40;Bioativo Composto Rocha Fosfática Apatitica;5500;07/09/2024;07/09/2024;MS
+2024;1;São Pedro;Argentina;Milho;P3707 LP;Grão;11,1592;Nenhum;200;28/10/2023;28/11/2023;MG
+2024;1;Atena;Alemanha;Milho;DKB 356 PRO4;Grão;114,7614;Nenhum;200;14/10/2023;20/10/2023;MG
+2024;1;Atena;Argentina;Milho;P3707 LP;Grão;40,46;MAP;200;28/10/2023;28/10/2023;MG
+2024;1;Atena;Irlanda;Milho;B2801 PWU;Grão;90;Nenhum;200;20/10/2023;24/10/2023;MG
+2024;1;São Pedro;Brasil;Milho;P3707 LP;Grão;61,4866;Nenhum;200;25/10/2023;25/10/2023;MG
+2024;1;São Pedro;Cuba/Haiti;Milho;NK 503 VIP;Grão;100,3898;Nenhum;200;25/10/2023;28/10/2023;MG
+2024;1;São Pedro;Jamaica;Milho;MG 616 PWU;Grão;92,3031;Nenhum;200;25/10/2023;25/10/2023;MG
+2024;1;Pedra do Cerrado;Pivô 7;Soja;BMX TORMENTA IPRO;Grão;86;10-46-00 + 9S;120;03/11/2023;03/11/2023;MS
+2024;1;Pedra do Cerrado;Pivô 8;Soja;BMX BONUS IPRO;Grão;155;10-46-00 + 9S;120;05/11/2023;06/11/2023;MS
+2024;1;Pedra do Cerrado;Pivô 10;Soja;BMX GUEPARDO IPRO;Grão;196;10-46-00 + 9S;120;08/11/2023;09/11/2023;MS
+2024;1;Pedra do Cerrado;Pivô 12;Soja;BMX OLIMPO IPRO;Grão;177;10-46-00 + 9S;120;10/11/2023;11/11/2023;MS
+2024;1;MBJM;Colina;Soja;BMX FOCO IPRO;Grão;205,87;MAP;113,56;22/11/2023;09/12/2023;MG
+2024;1;MBJM;São Lucas;Soja;TMG 2374 IPRO;Grão;313,21;MAP;118,13;01/12/2023;07/12/2023;MG
+2024;1;MBJM;Cabaçal;Soja;BMX FOCO IPRO;Grão;160;MAP;114,99;04/12/2023;08/12/2023;MG
+2024;1;Pedra do Cerrado;Pivô 11;Soja;MARACAI IPRO;Grão;162;MAP;120;06/12/2023;06/12/2023;MS
+2024;1;Pedra do Cerrado;Pivô 13;Soja;BMX OLIMPO IPRO;Grão;42;MAP;120;22/11/2023;23/11/2023;MS
+2024;1;Pedra do Cerrado;Pivô 14;Soja;BMX OLIMPO IPRO;Grão;92;MAP;120;29/11/2023;30/11/2023;MS
+2024;1;Pedra do Cerrado;Pivô 15;Soja;BMX OLIMPO IPRO;Grão;40;MAP;120;21/11/2023;22/11/2023;MS
+2024;1;São Bernardo;Araguari;Milho;NK 503 VIP;Grão;52,96;MAP;200;30/11/2023;30/11/2023;MG
+2024;1;São Bernardo;Belo Horizonte;Milho;NK 503 VIP;Grão;49,25;MAP;200;04/12/2023;05/12/2023;MG
+2024;1;São Bernardo;Diamantina;Milho;NK 503 VIP;Grão;54,03;MAP;200;05/12/2023;08/12/2023;MG
+2024;1;São Bernardo;Ituiutaba;Milho;NK 503 VIP;Grão;52,2;MAP;200;05/12/2023;08/12/2023;MG
+2024;1;São Bernardo;Juiz de Fora;Milho;NK 503 VIP;Grão;80,69;MAP;200;06/12/2023;08/12/2023;MG
+2024;1;São Bernardo;Monte Alegre;Milho;NK 503 VIP;Grão;59,42;MAP;200;30/11/2023;02/12/2023;MG
+2024;1;São Bernardo;Pará de Minas;Milho;NK 503 VIP;Grão;49,04;MAP;200;08/12/2023;10/12/2023;MG
+2024;2;Austrália;Pivô 5;Milho;B2801 PWU;Grão;46;Plantio_Oxyfértil;62;22/02/2024;24/02/2024;MG
+2024;2;Atena;Pivô 5;Algodão;FM 906 GLT;Fibras;116,69;Nenhum;0;17/01/2024;17/01/2024;MG
+2024;2;Boa Viagem;Pivô 4;Algodão;FM 906 GLT;Fibras;35;Nenhum;0;17/01/2024;20/01/2024;MG
+2024;1;Boa Viagem;Pivô 10;Soja;M-SOY 6620 IPRO;Grão;67,39;Nenhum;0;29/09/2023;29/09/2023;MG
+2024;1;Atena;Pivô 6;Soja;BMX TORMENTA IPRO;Grão;143,0278;Nenhum;0;19/09/2023;26/09/2023;MG
+2024;1;Austrália;Araraquara;Soja;BMX OLIMPO IPRO;Grão;8,53;Nenhum;0;30/10/2023;30/10/2023;MG
+2024;1;Austrália;Barretos;Soja;BMX OLIMPO IPRO;Grão;74,11;Nenhum;0;31/10/2023;31/10/2023;MG
+2024;1;Boa Viagem;Pivô 2;Soja;P96Y90 RR;Grão;48,34;Nenhum;0;25/09/2023;25/09/2023;MG
+2024;1;Boa Viagem;Pivô 3;Soja;BMX GUEPARDO IPRO;Grão;33,16;Nenhum;0;24/09/2023;24/09/2023;MG
+2024;1;Boa Viagem;Pivô 4;Soja;BMX EXATA i2X;Grão;35;Nenhum;0;23/09/2023;23/09/2023;MG
+2024;1;Boa Viagem;Pivô 6;Soja;BMX OLIMPO IPRO;Grão;36,3;Nenhum;0;02/10/2023;02/10/2023;MG
+2024;1;Boa Viagem;Pivô 9;Soja;NEO 680 IPRO;Grão;40,08;Nenhum;0;27/09/2023;27/09/2023;MG
+2024;1;Lagoa Bonita;Pivô 10;Milho Doce;Thunder;Outros;133,01;Nenhum;0;11/10/2023;13/10/2023;MG
+2024;1;Boa Viagem;Pivô 11;Soja;BMX TORMENTA IPRO;Grão;50,02;Nenhum;0;28/09/2023;28/09/2023;MG
+2024;1;Colorado;Arizona;Soja;BMX OLIMPO IPRO;Grão;45,79;Nenhum;0;01/11/2023;01/11/2023;MG
+2024;1;Colorado;Dallas;Soja;BMX OLIMPO IPRO;Grão;59,31;Nenhum;0;02/11/2023;02/11/2023;MG
+2024;1;Colorado;Flórida;Soja;BMX OLIMPO IPRO;Grão;59,31;Nenhum;0;03/11/2023;03/11/2023;MG
+2024;1;Colorado;Nova York I;Soja;CZ 37B43 IPRO;Grão;153,5;Nenhum;0;31/10/2023;01/11/2023;MG
+2024;1;São Paulo;São Paulo;Soja;BMX BONUS IPRO;Grão;230;Nenhum;0;27/10/2023;28/10/2023;MG
+2024;1;Atena;Bulgária;Soja;P97Y91 IPRO;Grão;78,05;Nenhum;0;26/10/2023;29/10/2023;MG
+2024;1;Atena;Colombia;Soja;AS 3730 IPRO;Grão;106,47;Nenhum;0;30/10/2023;31/10/2023;MG
+2024;1;Atena;Londres;Soja;TMG 2374 IPRO;Grão;90,6099;Nenhum;0;14/10/2023;16/10/2023;MG
+2024;1;Atena;Rússia;Soja;P97Y91 IPRO;Grão;90,2583;Nenhum;0;27/10/2023;29/10/2023;MG
+2024;1;Atena;Tchecoslováquia;Soja;P97Y91 IPRO;Grão;25,95;Nenhum;0;26/10/2023;29/10/2023;MG
+2024;1;Atena;Portugal;Soja;TMG 2374 IPRO;Grão;100,4;Nenhum;0;14/10/2023;16/10/2023;MG
+2024;1;São Pedro;Bolívia;Soja;BMX TORMENTA IPRO;Grão;61,9787;Nenhum;0;23/10/2023;26/10/2023;MG
+2024;1;São Pedro;Estados Unidos;Soja;BMX BONUS IPRO;Grão;29,1344;Nenhum;0;29/10/2023;29/10/2023;MG
+2024;1;São Pedro;Gotejo;Soja;BMX TORMENTA IPRO;Grão;55,1;Nenhum;0;24/10/2023;26/10/2023;MG
+2024;1;São Pedro;Paraguay;Soja;BMX TORMENTA IPRO;Grão;140;Nenhum;0;20/10/2023;20/10/2023;MG
+2024;1;Lagoa Bonita;Arapongas;Soja;BMX BONUS IPRO;Grão;21,98;Nenhum;0;26/10/2023;26/10/2023;MG
+2024;1;Lagoa Bonita;Arapoti;Soja;BMX BONUS IPRO;Grão;28,01;Nenhum;0;25/10/2023;25/10/2023;MG
+2024;1;Lagoa Bonita;Astorga;Soja;BMX OLIMPO IPRO;Grão;26,49;Nenhum;0;21/10/2023;26/10/2023;MG
+2024;1;Lagoa Bonita;Cambé I;Soja;BMX TORMENTA IPRO;Grão;92,5439;Nenhum;0;16/10/2023;18/10/2023;MG
+2024;1;Lagoa Bonita;Campo Largo;Soja;BMX OLIMPO IPRO;Grão;13,67;Nenhum;0;21/10/2023;26/10/2023;MG
+2024;1;Lagoa Bonita;Guaratuba;Soja;BMX TORMENTA IPRO;Grão;35,64;Nenhum;0;16/10/2023;18/10/2023;MG
+2024;1;Lagoa Bonita;Londrina;Soja;BMX BONUS IPRO;Grão;33,62;Nenhum;0;23/10/2023;23/10/2023;MG
+2024;1;Lagoa Bonita;Palotina;Soja;BMX BONUS IPRO;Grão;69,23;Nenhum;0;20/10/2023;23/10/2023;MG
+2024;1;Lagoa Bonita;Pivô 3;Soja;BMX TORMENTA IPRO;Grão;85,774;Nenhum;0;23/10/2023;29/10/2023;MG
+2024;1;Austrália;Bauru;Soja;BMX TORMENTA IPRO;Grão;54,87;Nenhum;0;24/10/2023;24/10/2023;MG
+2024;1;Austrália;Campinas;Soja;BMX TORMENTA IPRO;Grão;26,62;Nenhum;0;25/10/2023;25/10/2023;MG
+2024;1;Austrália;Guarujá;Soja;BMX OLIMPO IPRO;Grão;26,71;Nenhum;0;01/11/2023;01/11/2023;MG
+2024;1;Austrália;Jaboticabal;Soja;BMX TORMENTA IPRO;Grão;31,02;Nenhum;0;26/10/2023;26/10/2023;MG
+2024;1;Austrália;Limeira;Soja;BMX OLIMPO IPRO;Grão;21,1;Nenhum;0;29/10/2023;29/10/2023;MG
+2024;1;Austrália;Marília;Soja;BMX TORMENTA IPRO;Grão;57,68;Nenhum;0;22/10/2023;22/10/2023;MG
+2024;1;Austrália;Mauá;Soja;BMX OLIMPO IPRO;Grão;60,96;Nenhum;0;27/10/2023;27/10/2023;MG
+2024;1;Austrália;Pirituba;Soja;BMX OLIMPO IPRO;Grão;30,49;Nenhum;0;29/10/2023;29/10/2023;MG
+2024;1;Austrália;Pivô 1;Soja;BMX EXATA i2X;Grão;67,56;Nenhum;0;19/10/2023;19/10/2023;MG
+2024;1;Austrália;Pivô 2;Soja;BMX TORMENTA IPRO;Grão;73,9;Nenhum;0;27/09/2023;27/09/2023;MG
+2024;1;Austrália;Pivô 3;Soja;BMX TORMENTA IPRO;Grão;45;Nenhum;0;27/09/2023;30/09/2023;MG
+2024;1;Austrália;Santo André;Soja;BMX OLIMPO IPRO;Grão;7;Nenhum;0;29/10/2023;29/10/2023;MG
+2024;1;Austrália;São Vicente;Soja;BMX OLIMPO IPRO;Grão;33,86;Nenhum;0;30/10/2023;30/10/2023;MG
+2024;1;Austrália;Ubatuba;Soja;BMX TORMENTA IPRO;Grão;40,86;Nenhum;0;26/10/2023;26/10/2023;MG
+2024;1;São Bernardo;Gurinhatã;Soja;BMX TORMENTA IPRO;Grão;59,11;Nenhum;0;02/11/2023;02/11/2023;MG
+2024;1;São Bernardo;Ouro Preto;Soja;TMG 2374 IPRO;Grão;36,73;Nenhum;0;31/10/2023;31/10/2023;MG
+2024;1;São Bernardo;Carneirinhos;Soja;BMX TORMENTA IPRO;Grão;52,26;Nenhum;0;31/10/2023;31/10/2023;MG
+2024;1;Boa Viagem;Amazonas;Soja;BMX OLIMPO IPRO;Grão;236,48;Nenhum;0;26/10/2023;30/10/2023;MG
+2024;1;Boa Viagem;Bahia;Soja;BMX OLIMPO IPRO;Grão;150,49;Nenhum;0;21/10/2023;24/10/2023;MG
+2024;1;Atena;Peru;Soja;BMX BONUS IPRO;Grão;7,6;Nenhum;0;26/10/2023;29/10/2023;MG
+2024;1;Austrália;Santa Rita I;Soja;BMX TORMENTA IPRO;Grão;5,12;Nenhum;0;25/10/2023;25/10/2023;MG
+2024;1;Austrália;São Caetano;Soja;BMX OLIMPO IPRO;Grão;17,61;Nenhum;0;29/10/2023;29/10/2023;MG
+2024;1;São Pedro;Perú;Soja;BMX BONUS IPRO;Grão;62,9286;Nenhum;0;26/10/2023;29/10/2023;MG
+2024;1;São Pedro;Pivô 4;Soja;BMX EXATA i2X;Grão;148,6656;Nenhum;0;15/10/2023;18/10/2023;MG
+2024;1;Atena;Pivô 1;Soja;BMX TORMENTA IPRO;Grão;125,33;Nenhum;0;06/11/2023;07/11/2023;MG
+2024;1;Ipês;Santo Antonio;Soja;BMX FOCO IPRO;Grão;104,82;Nenhum;0;05/11/2023;06/11/2023;MG
+2024;1;Ipês;Nova Esperança;Soja;BMX FOCO IPRO;Grão;115,18;Nenhum;0;31/10/2023;01/11/2023;MG
+2024;1;Ipês;São José;Soja;BMX FOCO IPRO;Grão;62,33;Nenhum;0;31/10/2023;01/11/2023;MG
+2024;1;MBJM;Cabaçal III;Soja;BMX FOCO IPRO;Grão;239,93;Nenhum;0;22/11/2023;29/12/2023;MG
+2024;1;MBJM;Mimoso I;Soja;BMX FOCO IPRO;Grão;137,4;Nenhum;0;19/11/2023;19/11/2023;MG
+2024;1;Austrália;Taubaté;Soja;ST 700 i2X;Grão;96,32;Nenhum;0;19/11/2023;19/11/2023;MG
+2024;1;Austrália;Piracicaba;Soja;ST 700 i2X;Grão;96,63;Nenhum;0;19/11/2023;19/11/2023;MG
+2024;1;São Bernardo;Campina Verde;Soja;BMX TORMENTA IPRO;Grão;47;Nenhum;0;23/11/2023;23/11/2023;MG
+2024;1;São Bernardo;Patos de Minas;Soja;BMX GUEPARDO IPRO;Grão;50,42;Nenhum;0;22/11/2023;22/11/2023;MG
+2024;1;São Bernardo;Itapagipe;Soja;BMX OLIMPO IPRO;Grão;41,23;Nenhum;0;18/11/2023;18/11/2023;MG
+2024;1;São Bernardo;Indianópolis;Soja;BMX OLIMPO IPRO;Grão;37,65;Nenhum;0;22/11/2023;22/11/2023;MG
+2024;1;São Bernardo;Patrocínio;Soja;BMX FOCO IPRO;Grão;50,62;Nenhum;0;17/11/2023;18/11/2023;MG
+2024;1;São Bernardo;Monte Carmelo;Soja;BMX FOCO IPRO;Grão;57,06;Nenhum;0;17/11/2023;18/11/2023;MG
+2024;1;Lagoa Bonita;Pivô 11;Milho Doce;Thunder;Outros;114,33;Nenhum;0;06/11/2023;08/02/2024;MG
+2024;1;Boa Viagem;Pivô 1;Algodão;FM 906 GLT;Fibras;190,6;Nenhum;0;26/12/2023;26/12/2023;MG
+2024;1;Boa Viagem;Pivô 12;Soja;BMX TORMENTA IPRO;Grão;28,09;Nenhum;0;30/09/2023;30/09/2023;MG
+2024;1;Lagoa Bonita;Pivô 12;Milho Doce;Thunder;Outros;114,33;Nenhum;0;13/11/2023;17/11/2023;MG
+2024;1;Ipês;3 União;Soja;DS 7417 IPRO;Grão;186,29;Nenhum;0;29/11/2023;29/11/2023;MG
+2024;1;Ipês;Fanecos;Soja;BMX FOCO IPRO;Grão;169,07;Nenhum;0;17/11/2023;17/11/2023;MG
+2024;1;Ipês;Santa Rita de Cássia;Soja;BMX FOCO IPRO;Grão;93,64;Nenhum;0;17/11/2023;22/11/2023;MG
+2024;1;Atena;Pivô 5;Soja;BMX GUEPARDO IPRO;Grão;116,69;Nenhum;0;19/09/2023;23/09/2023;MG
+2024;1;Boa Viagem;Pivô 5;Milho Doce;Thunder;Outros;55,05;Nenhum;0;17/11/2023;17/11/2023;MG
+2024;1;Atena;Pivô 7;Milho Doce;Thunder;Outros;80,37;Nenhum;0;16/11/2023;21/11/2023;MG
+2024;1;Lagoa Bonita;Pivô 13;Algodão;FM 985 GLTP;Fibras;133,48;Nenhum;0;18/12/2023;22/12/2023;MG
+2024;1;Austrália;Jaú;Soja;BMX GUEPARDO IPRO;Grão;47,47;Nenhum;0;30/11/2023;01/12/2023;MG
+2024;1;Austrália;Orlândia;Soja;ST 700 i2X;Grão;50,7;Nenhum;0;26/11/2023;27/11/2023;MG
+2024;1;Austrália;Santa Rita II;Soja;BMX GUEPARDO IPRO;Grão;40,54;Nenhum;0;30/11/2023;01/12/2023;MG
+2024;1;Austrália;Ituverava;Soja;BMX GUEPARDO IPRO;Grão;58,8;Nenhum;0;30/11/2023;01/12/2023;MG
+2024;1;MBJM;Joama;Soja;TMG 2374 IPRO;Grão;127,9;Nenhum;0;30/11/2023;08/12/2023;MG
+2024;1;Colorado;Pivô 8;Algodão;FM 985 GLTP;Fibras;156,66;Nenhum;0;26/12/2023;26/12/2023;MG
+2024;1;São Bernardo;Canápolis;Soja;BMX OLIMPO IPRO;Grão;95,61;Nenhum;0;23/11/2023;24/11/2023;MG
+2024;1;São Bernardo;Coromandel;Soja;BMX GUEPARDO IPRO;Grão;63,78;Nenhum;0;31/10/2023;01/11/2023;MG
+2024;1;São Bernardo;Estrela do Sul;Soja;BMX FOCO IPRO;Grão;32,02;Nenhum;0;21/11/2023;22/11/2023;MG
+2024;1;São Bernardo;Frutal;Soja;BMX OLIMPO IPRO;Grão;120,86;Nenhum;0;21/11/2023;22/11/2023;MG
+2024;1;São Bernardo;Iturama;Soja;BMX TORMENTA IPRO;Grão;44,79;Nenhum;0;23/11/2023;24/11/2023;MG
+2024;1;São Bernardo;Prata;Soja;BMX OLIMPO IPRO;Grão;57,51;Nenhum;0;20/11/2023;22/11/2023;MG
+2024;1;São Pedro;Pivô 2;Milho Doce;Thunder;Outros;112,0126;Nenhum;0;31/10/2023;08/11/2023;MG
+2024;1;Boa Viagem;Pivô 7;Milho Doce;Thunder;Outros;57,98;Nenhum;0;19/12/2023;21/12/2023;MG
+2024;1;São Bernardo;Tupaciguara;Soja;BMX GUEPARDO IPRO;Grão;55,49;Nenhum;0;23/11/2023;25/11/2023;MG
+2024;1;São Bernardo;Uberaba;Milho;NK 503 VIP;Grão;52,65;Nenhum;0;29/11/2023;30/11/2023;MG
+2024;1;São Bernardo;Uberlândia;Soja;BMX TORMENTA IPRO;Grão;49,67;Nenhum;0;17/11/2023;20/11/2023;MG
+2024;1;São Bernardo;Viçosa;Soja;TMG 2374 IPRO;Grão;90,53;Nenhum;0;02/11/2023;04/11/2023;MG
+2024;1;Lagoa Bonita;Pivô 9;Milho Doce;Thunder;Outros;64,73;Nenhum;0;08/01/2024;10/01/2024;MG
+2024;1;Boa Viagem;Pivô 8;Milho Doce;Thunder;Outros;81,11;Nenhum;0;20/12/2023;24/11/2023;MG
